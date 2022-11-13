@@ -12,6 +12,7 @@ Data analysis was performed on [STATA 17](https://www.stata.com/), and organized
 * Reference scoring, which loads the clean dataset and scores each participant according to clinical reference standard (EASL 2017) and comparative criteria (WHO 2015, and TREAT-B)
 * Data analysis, which produces the simplified scoring system and performs statistical analysis (performance, agreement, comparison, subgroup analysis, ...)
 
+<b>NB: Code will be made available upon publication of the work in a peer-reviewed scientific journal.</b>
 
 ## HEPSANET consortium
 The HEPatitis B in sub-Saharan Africa NETwork (HEPSANET) is a consortium of hospitals and research centers across 8 sub-Saharan African countries, in collaboration with several European research institutes.
